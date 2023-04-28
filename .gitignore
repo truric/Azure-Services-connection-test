@@ -16,6 +16,7 @@ target/
 src/main/resources/resources.properties
 src/main/resources/thumbnail.png
 src/main/resources/
+.idea
 
 ### Eclipse ###
 .apt_generated
